@@ -47,4 +47,4 @@ For the sake of simplicity, we visualize the best R square we achieve for each c
 
 We observe an imbalance in prediction performance across clusters. On the following figures, the deeper blue means that the R squares are higher. For clusters that are located in the heart of downtown with high travel demand, the prediction R square could be as high as 88.98%, yet for outsider clusters, the R square is less than 10%. In terms of algorithms, the KNN and XGBoost outperform other algorithms in most cases.
 
-<p align="center"><img width="90%" src="image/max_R2.png" /></p>
+<p align="center"><img width="75%" src="image/max_R2.png" /></p>
